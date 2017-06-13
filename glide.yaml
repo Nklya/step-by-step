@@ -1,0 +1,6 @@
+inpackage: github.com/Nklya/step-by-step
+import:
+- package: github.com/Sirupsen/logrus
+  version: v1.0.0
+- package: github.com/takama/router
+  version: 0.6.3
